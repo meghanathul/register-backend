@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    
+}
+h1{
+    color: rgb(27, 27, 214);
+margin-left: 35%;}
+.container{
+    /* border: 4px solid green; */
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    width: 30%;
+    height: 80vh;
+    margin-left: 35%;
+    background-color: rgb(221, 218, 218);
+}
+form{
+    padding: 100px;
+}
+lable{
+    font-size: 20px;
+    line-height: 40px;
+}
+input{
+    padding: 5px;
+    width: 100%;
+}
+button{
+    margin-top: 30px;
+    width: 106%;
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: green;
+    border: none;
+}
+button:hover{
+    background-color: rgb(124, 158, 124);
+    color: black;
+}
